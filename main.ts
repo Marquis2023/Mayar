@@ -23,49 +23,50 @@ input.onGesture(Gesture.Shake, function () {
         basic.showString("A")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("B")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("C")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("D")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("E")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("F")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("G")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("H")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("I")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("J")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("K ")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("L")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("M")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("N")
     }
     if (true) {
         basic.showString("" + (Letter == 1))
+        basic.showString("O")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("P")
     }
     if (Letter == 1) {
         basic.showString("A")
