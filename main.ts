@@ -61,35 +61,40 @@ input.onGesture(Gesture.Shake, function () {
     if (Letter == 1) {
         basic.showString("N")
     }
-    if (true) {
-        basic.showString("" + (Letter == 1))
+    if (Letter == 1) {
         basic.showString("O")
     }
     if (Letter == 1) {
         basic.showString("P")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("Q")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("R")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("S")
     }
     if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("T")
     }
     if (Letter == 1) {
-        basic.showString("A")
-    }
-    if (Letter == 1) {
-    	
-    }
-    if (Letter == 1) {
-        basic.showString("A")
+        basic.showString("U")
         if (Letter == 1) {
-            basic.showString("A")
+            basic.showString("V")
+            if (Letter == 1) {
+                basic.showString("W")
+            }
+            if (Letter == 1) {
+                basic.showString("X")
+            }
+            if (Letter == 1) {
+                basic.showString("Y")
+            }
+            if (Letter == 1) {
+                basic.showString("Z")
+            }
         }
     }
 })
