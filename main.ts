@@ -1,5 +1,8 @@
 let number = 0
 let Letter = 0
+input.onButtonPressed(Button.A, function () {
+    basic.clearScreen()
+})
 input.onButtonPressed(Button.AB, function () {
     basic.showString("PERCENTAGE")
     number = randint(0, 100)
@@ -22,79 +25,79 @@ input.onGesture(Gesture.Shake, function () {
     if (Letter == 1) {
         basic.showString("A")
     }
-    if (Letter == 1) {
+    if (Letter == 2) {
         basic.showString("B")
     }
-    if (Letter == 1) {
+    if (Letter == 3) {
         basic.showString("C")
     }
-    if (Letter == 1) {
+    if (Letter == 4) {
         basic.showString("D")
     }
-    if (Letter == 1) {
+    if (Letter == 5) {
         basic.showString("E")
     }
-    if (Letter == 1) {
+    if (Letter == 6) {
         basic.showString("F")
     }
-    if (Letter == 1) {
+    if (Letter == 7) {
         basic.showString("G")
     }
-    if (Letter == 1) {
+    if (Letter == 8) {
         basic.showString("H")
     }
-    if (Letter == 1) {
+    if (Letter == 9) {
         basic.showString("I")
     }
-    if (Letter == 1) {
+    if (Letter == 10) {
         basic.showString("J")
     }
-    if (Letter == 1) {
+    if (Letter == 11) {
         basic.showString("K ")
     }
-    if (Letter == 1) {
+    if (Letter == 12) {
         basic.showString("L")
     }
-    if (Letter == 1) {
+    if (Letter == 13) {
         basic.showString("M")
     }
-    if (Letter == 1) {
+    if (Letter == 14) {
         basic.showString("N")
     }
-    if (Letter == 1) {
+    if (Letter == 15) {
         basic.showString("O")
     }
-    if (Letter == 1) {
+    if (Letter == 16) {
         basic.showString("P")
     }
-    if (Letter == 1) {
+    if (Letter == 17) {
         basic.showString("Q")
     }
-    if (Letter == 1) {
+    if (Letter == 18) {
         basic.showString("R")
     }
-    if (Letter == 1) {
+    if (Letter == 19) {
         basic.showString("S")
     }
-    if (Letter == 1) {
+    if (Letter == 20) {
         basic.showString("T")
     }
-    if (Letter == 1) {
+    if (Letter == 21) {
         basic.showString("U")
-        if (Letter == 1) {
-            basic.showString("V")
-            if (Letter == 1) {
-                basic.showString("W")
-            }
-            if (Letter == 1) {
-                basic.showString("X")
-            }
-            if (Letter == 1) {
-                basic.showString("Y")
-            }
-            if (Letter == 1) {
-                basic.showString("Z")
-            }
-        }
+    }
+    if (Letter == 22) {
+        basic.showString("V")
+    }
+    if (Letter == 23) {
+        basic.showString("W")
+    }
+    if (Letter == 24) {
+        basic.showString("X")
+    }
+    if (Letter == 25) {
+        basic.showString("Y")
+    }
+    if (Letter == 26) {
+        basic.showString("Z")
     }
 })
